@@ -1,0 +1,2 @@
+info = "github"
+print(info)
